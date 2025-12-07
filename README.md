@@ -3,7 +3,7 @@
 **The fastest, cleanest 12-column random prompt generator for ComfyUI**  
 Made by **DemonNCoding**
 
-![Preview Image](https://github.com/DemonNCoding/PromptGenerator12Columns/blob/main/previewImage.png)
+![Preview Image](https://raw.githubusercontent.com/DemonNCoding/PromptGenerator12Columns/refs/heads/main/previewImage.png)
 
 I got tired of slow, bloated, or limited random prompt nodes - so I built exactly what I always wanted:  
 - Instant generation  
