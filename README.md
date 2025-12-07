@@ -1,4 +1,4 @@
-# PromptGenerator12Columns
+# Prompt Generator 12-Columns
 
 **The fastest, cleanest 12-column random prompt generator for ComfyUI**  
 Made by **DemonNCoding**
